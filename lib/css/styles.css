@@ -1,0 +1,45 @@
+body {
+    background: #2d2e30;
+    font-family: 'Dosis', sans-serif;
+    color: white;
+    text-align: center;
+}
+h1 {
+    font-size: 35px;
+}
+h2 {
+    font-size: 28px;
+}
+#profile {
+    background-color: #1A1818;
+    border-radius: 13px;
+    border: solid;
+    border-color: #FDEFA6;
+    border-width: 2px;
+    margin: 15px;
+    padding: 16px;
+}
+
+img {
+    position: relative;
+    padding:1px;
+    border:1px solid white;
+    border-radius: 50%;
+}
+
+p {
+    font-size: 22px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+hr {
+    margin: 10%;
+}
+hr #heading {
+    margin: 2px;
+}
+
+footer {
+    margin: 20px;
+}   
